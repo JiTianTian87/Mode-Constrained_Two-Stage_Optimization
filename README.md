@@ -198,7 +198,7 @@ Compared with ZZVD input shaper:
 
 ## Repository Structure
 
-### Main_Model.slx
+### `Main_Model.slx`
 
 Main Simulink model of the grid-connected inverter system used for validation.
 
@@ -211,9 +211,9 @@ Functions:
 
 ---
 
-### Mode_Identification.m
+### `Mode_Identification.mlx`
 
-Implementation of Stage-I: Dominant Mode Identification.
+Implementation of Stage I: Dominant Mode Identification.
 
 Functions:
 
@@ -230,9 +230,9 @@ Output:
 
 ---
 
-### OCRT_Optimization.m
+### `OCRT_Optimization.mlx`
 
-Implementation of Stage-II: Frequency-Domain Optimization.
+Implementation of Stage II: Frequency-Domain Optimization.
 
 Functions:
 
